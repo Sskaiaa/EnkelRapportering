@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Blog</title>
+</head>
+<body>
+  <header>
+    <h1>Welcome to My Blog</h1>
+  </header>
+  <nav>
+    <ul>
+      <li><a href="#">Home</a></li>
+      <li><a href="#">About</a></li>
+      <li><a href="#">Contact</a></li>
+    </ul>
+  </nav>
+  <main>
+    <h2>My Latest Blog Post</h2>
+    <h3>Post Title</h3>
+    <p>Post content goes here...</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed auctor, magna vel bibendum convallis, ipsum risus malesuada ipsum, sit amet malesuada libero libero vitae augue. Sed auctor odio justo, sit amet tincidunt urna tristique eu. Sed euismod, magna a malesuada congue, augue magna sollicitudin velit, vel malesuada libero libero vitae augue. Sed auctor odio justo, sit amet tincidunt urna tristique eu.</p>
+  </main>
+  <footer>
+    <p>Copyright ©2021 My Blog</p>
+  </footer>
+</body>
+</html>
